@@ -452,7 +452,7 @@ html, body {
 .left3 img{
   width: 100%;
   height: 90%;
-  animation: second 5s infinite;
+  animation: second 5.2s linear infinite ;
 }
 
 @keyframes second{
